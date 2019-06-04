@@ -1,0 +1,12 @@
+//vendor
+@import 'vendors/bootstrap-4.3/bootstrap.scss';
+
+//components
+@import 'components/nav';
+@import 'components/logo';
+
+//layout
+@import 'layouts/header';
+
+//pages
+@import 'pages/root'
